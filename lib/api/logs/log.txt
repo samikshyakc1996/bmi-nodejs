@@ -1,0 +1,2 @@
+Wed Mar 30 2022 08:26:30 GMT-0400 (Eastern Daylight Time)=> Height: 1.5 Weight: 50 and BMI: 22
+Wed Mar 30 2022 08:26:45 GMT-0400 (Eastern Daylight Time)=> Height: 1.6 Weight: 60 and BMI: 23
